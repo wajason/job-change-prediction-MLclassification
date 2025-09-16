@@ -36,19 +36,19 @@ This project builds a **binary classification pipeline** on the Kaggle HR Analyt
    ```bash
    git clone https://github.com/your-username/job-change-prediction.git
    cd job-change-prediction
-```
+   ```
 
 2. Install dependencies:
 
    ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
-```
+    ```
 
 3. Launch Jupyter and run the notebook:
 
    ```bash
 jupyter notebook job_change_prediction.ipynb
-   ```
+    ```
 
 ## 📊 Example workflow
 - Run the notebook end-to-end to generate baseline models.
@@ -63,4 +63,5 @@ jupyter notebook job_change_prediction.ipynb
 - Handle class imbalance with SMOTE or class weights.
 
 - Add explainability with SHAP or LIME (not yet included).
+
 
