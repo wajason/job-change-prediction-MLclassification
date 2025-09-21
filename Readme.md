@@ -34,8 +34,8 @@ This project builds a **binary classification pipeline** on the Kaggle HR Analyt
 ## ▶️ Quick start
 1. Clone this repo:
    ```bash
-   git clone https://github.com/wajason/job-change-prediction.git
-   cd job-change-prediction
+   git clone https://github.com/wajason/job-change-prediction-MLclassification.git
+   cd job-change-prediction-MLclassification
    ```
 
 2. Install dependencies:
@@ -63,6 +63,7 @@ This project builds a **binary classification pipeline** on the Kaggle HR Analyt
 - Handle class imbalance with SMOTE or class weights.
 
 - Add explainability with SHAP or LIME (not yet included).
+
 
 
 
